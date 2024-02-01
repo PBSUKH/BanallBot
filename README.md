@@ -9,7 +9,7 @@
 
 
 # Deploy To Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/PBSUKH/BanallBot)
+<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/Itz-Zaid/Zaid-Userbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-greem?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <p>
 <a href="https://t.me/BAD_STRING_SESSION_BOT-Gen"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
