@@ -1,14 +1,13 @@
          ─「 𝐁ʀᴏᴋᴇɴ 𝘅 𝐌ᴜsɪᴄ 」─
 
-💫𝗕𝗔𝗡𝗔𝗟𝗟 𝗠𝗘𝗠𝗕𝗘𝗥 𝗕𝗢𝗧 ❤️‍🩹 𝗡𝗢 𝗟𝗔𝗚 𝗙𝗔𝗦𝗧 𝗦𝗣𝗘𝗘𝗗 💸𝗕𝗢𝗧 𝗠𝗔𝗗𝗘 𝗕𝗬🕊️ - 𝗦𝗨𝗞𝗛 ❤️
 
 <p align="center">
-  <img src="https://telegra.ph/file/023c1ad1b5caf85c69b9e.jpg">
+  <img src="https://telegra.ph/file/3b8ad7bb52fac280d92a9.jpg">
 </p>
 
 
 
-# Deploy To Heroku 
+# 𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨
 <p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/Itz-Zaid/Zaid-Userbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-greem?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <p>
