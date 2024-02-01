@@ -16,7 +16,7 @@ async def ban_all(_,msg):
             except Exception:
                 pass
     else:
-        await msg.reply_text("ᴇɪᴛʜᴇʀ ɪ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴛʜᴇ ʀɪɢʜᴛ ᴛᴏ ʀᴇsᴛʀɪᴄᴛ ᴜsᴇʀs ᴏʀ ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ɪɴ sᴜᴅᴏ ᴜsᴇʀs")  
+        await msg.reply_text("𝐀ʙᴇ 𝐋ᴏᴠᴅᴇ 𝐌ᴀᴛʜᴇʀᴄʜᴏᴅ 𝐁ʜᴀᴋ ")  
                                          
     
             
